@@ -1,0 +1,33 @@
+
+
+#my-pic{
+  padding:5%;
+  height: 50px;
+  width: 50px;
+}
+
+body{
+  background-color: #343a40;
+}
+
+.jumbotron{
+  background-color: #292b2c;
+}
+
+#we-jumbo{
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+#skills{
+  padding-top: 1%;
+}
+
+#skill-title{
+  padding-bottom: 5%;
+}
+
+#title-div{
+  text-align: center;
+}
